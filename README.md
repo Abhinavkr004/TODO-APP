@@ -23,3 +23,7 @@ A simple and responsive **To-Do List Web App** built using HTML, CSS, and JavaSc
 
 ```bash
 git clone https://github.com/Abhinavkr004/TODO-APP.git
+```
+## 📸 Preview
+
+![](./preview.png)
